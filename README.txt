@@ -1,8 +1,3 @@
-Duong Hoang Vu
-760433691
-
-
-
 enum surfaceType (in surface.h file):
 	PERFECT_MIRROR: reflect perflectly
 	SPECULAR: reflect by with slight randomness, create fuzzy reflection
